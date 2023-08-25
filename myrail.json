@@ -1,0 +1,13 @@
+{
+  "ios": {
+    "latest": "0.0.1",
+    "minimum": "0.0.1",
+    "url": null
+  },
+  "android": {
+    "latest": "0.0.1",
+    "minimum": "0.0.1",
+    "url": null
+  },
+  "maintenanceMode": "0"
+}
