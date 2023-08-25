@@ -1,0 +1,15 @@
+{
+    "appName": "myPlate",
+    "author": "thinesjs",
+    "ios": {
+        "latest": "0.0.1",
+        "minimum": "0.0.1",
+        "url": null
+    },
+    "android": {
+        "latest": "1.0.6",
+        "minimum": "1.0.6",
+        "url": "https://play.google.com/store/apps/details?id=com.thinesjs.myplate"
+    },
+    "maintenanceMode": "0"
+}
